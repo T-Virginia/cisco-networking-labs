@@ -9,9 +9,6 @@ Questa repository raccoglie i miei appunti di studio, le tabelle di riferimento 
 
 ## 📚 Indice degli appunti
 
-| Argomento | Contenuto | File |
-| :--- | :--- | :--- |
-| **Subnetting IPv4** | Calcolo maschere, CIDR, network/broadcast address e host range | [subnetting-ipv4.md](./01-subnetting-notes/subnetting-ipv4.md) |
 
 ---
 
