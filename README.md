@@ -18,7 +18,7 @@ Ogni cartella contiene il file `.pkt` originale, uno screenshot della topologia 
 
 | # | Laboratorio | Argomenti principali | Stato |
 | :--- | :--- | :--- | :--- |
-| 01 | [Basic Network Setup](./labs/01-basic-network) | Configurazione base host, IP statici, verifica connettività (`ping`) | 🟡 In corso |
+| 01 | [Configure a Wireless Router and Client](./labs/01-basic-network) | Configurazione base host, IP statici, verifica connettività (`ping`) | 🟡 In corso |
 
 ---
 
